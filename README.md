@@ -1,4 +1,4 @@
-Machine Learning Based Diabetes Classification and Prediction
+#Machine Learning Based Diabetes Classification and Prediction
 📌 Project Overview
 This project focuses on predicting whether a person has diabetes using Machine Learning techniques.
 It uses clinical and demographic data such as glucose level, BMI, age, and insulin levels to classify patients as diabetic or non-diabetic.
